@@ -1,0 +1,20 @@
+CONFIGURATION_NUM
+DATA_FILE 	= 	satellite/satellite.txt
+SCORE_FILE 	= 	satellite/score.txt
+CLUSTER_FILE    =  satellite/cluster.txt
+LOF1	=	satellite/lof1.txt
+LOF2	=	satellite/lof2.txt
+CLASS_NUM	= 	6
+DIMENSION	= 	36	
+SUBSAMPLE	= 	250
+TREE_NUM	=	32
+CLUSTER_NUM	=	8
+BIN_WIDTH	=	0.001
+PROPORTION_NUM
+0	0.234
+1	0.242
+2	0.0976
+3	0.217
+4	0.093
+5	0.044
+

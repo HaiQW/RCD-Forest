@@ -1,0 +1,19 @@
+CONFIGURATION_NUM
+DATA_FILE 	= 	Ecoli/ecoli.txt
+SCORE_FILE 	= 	Ecoli/score.txt
+CLUSTER_FILE    =  Ecoli/cluster.txt
+LOF1	=	Ecoli/lof1.txt
+LOF2	=	Ecoli/lof2.txt
+CLASS_NUM	= 	6
+DIMENSION	= 	7	
+SUBSAMPLE	= 	332
+TREE_NUM	=	2
+CLUSTER_NUM	=	6
+BIN_WIDTH	=	0.001
+PROPORTION_NUM
+0	0.5
+1	0.2
+2	0.2
+3	0.1
+4	0.1
+5	0.04

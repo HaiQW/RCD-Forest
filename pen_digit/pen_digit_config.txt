@@ -1,0 +1,23 @@
+CONFIGURATION_NUM
+DATA_FILE = pen_digit/pen_digit.txt
+SCORE_FILE 	 = 	 pen_digit/score.txt
+CLUSTER_FILE =      pen_digit/cluster.txt
+LOF1         =     pen_digit/lof1.txt
+LOF2		= 	 pen_digit/lof2.txt
+CLASS_NUM	= 	10
+DIMENSION	 = 	16	
+SUBSAMPLE	= 	1233
+TREE_NUM	=	20
+CLUSTER_NUM	=	5
+BIN_WIDTH	=	0.01
+PROPORTION_NUM	
+0	0.5
+1	0.06
+2	0.06
+3	0.06
+4	0.06
+5	0.06
+6	0.06
+7	0.06
+8	0.06
+9	0.06

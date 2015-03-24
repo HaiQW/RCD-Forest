@@ -1,0 +1,17 @@
+CONFIGURATION_NUM	 
+DATA_FILE 	= 	 kdd/kdd99_2.txt
+SCORE_FILE 	= 	 kdd/score.txt
+CLUSTER_FILE =      kdd/cluster.txt
+LOF1         =      kdd/lof1.txt
+LOF2		= 	 kdd/lof2.txt
+CLASS_NUM	= 	4
+DIMENSION	 = 	41
+SUBSAMPLE	= 	250
+TREE_NUM	=	10
+CLUSTER_NUM	=	4
+BIN_WIDTH	=	0.001
+PROPORTION_NUM	
+0	0.5
+1	0.25
+2	0.125
+3	0.125
